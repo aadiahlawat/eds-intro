@@ -255,3 +255,12 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+.eds-banner
+{
+  background-color: #ddd;
+}
+/*** Separate Section ****/
+.section-separated-wrapper
+{
+  background-color: light-grey;
+}
